@@ -9,7 +9,7 @@
                     <include name="test1"/>
                     <include name="test2"/>
                     <include name="test3"/>
-                    <include name="logDemo"/>
+                    <include name="logoDemo"/>
                 </methods>
             </class>
         </classes>
