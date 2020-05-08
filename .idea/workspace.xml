@@ -2,18 +2,19 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b13d50dc-136e-4cbe-996a-89533ab7689e" name="Default" comment="">
-      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/httpbclient/demo/MyHttpClient.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_9.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_5.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_9.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/mocoTest/startupPost.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/javabase/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/IgnoreTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/groups/GroupsOnMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/LoginTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/PayTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/SuitConfig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/myTestng/src/main/resources/suit.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/myTestng.iml" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/myTestng.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/src/main/resources/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/src/main/resources/testing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/target/classes/com/testng/ExtentTestNGIReporterListenerOld$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/target/classes/com/testng/ExtentTestNGIReporterListenerOld.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/target/classes/testing.xml" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/target/classes/testing.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/myTestng/test-output/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/test-output/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mocoTest/startupGet.json" beforeDir="false" afterPath="$PROJECT_DIR$/mocoTest/startupGet.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myTestng/target/classes/com/httpbclient/demo/MyHttpClient.class" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/target/classes/com/httpbclient/demo/MyHttpClient.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/myTestng/target/classes/com/testng/BasicDemo.class" beforeDir="false" afterPath="$PROJECT_DIR$/myTestng/target/classes/com/testng/BasicDemo.class" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/myTestng/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -24,51 +25,30 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myTestng/pom.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="175">
-              <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+            <state relative-caret-position="132">
+              <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="MyHttpClient.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/httpbclient/demo/MyHttpClient.java">
+      <file leaf-file-name="startup1.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mocoTest/startup1.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="180">
+              <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HttpClient.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/client/HttpClient.java">
+      <file leaf-file-name="startupPost.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mocoTest/startupPost.json">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="136">
-              <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestMethodsDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/TestMethodsDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="247">
-              <caret line="28" column="24" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="24" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#201#202#0" expanded="true" />
-                <element signature="e#242#243#0" expanded="true" />
-                <element signature="e#284#285#0" expanded="true" />
-                <element signature="e#325#326#0" expanded="true" />
-                <element signature="e#387#388#0" expanded="true" />
-                <element signature="e#408#409#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="330">
+              <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -76,17 +56,45 @@
       <file leaf-file-name="testing.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myTestng/src/main/resources/testing.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+            <state relative-caret-position="300">
+              <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTestng/test-output/index.html">
+      <file leaf-file-name="test.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/javabase/test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1240">
-              <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
+            <state relative-caret-position="120">
+              <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="emailable-report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myTestng/test-output/emailable-report.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="report.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/myTestng/test-output/report.html">
+          <provider selected="true" editor-type-id="text-editor" />
+        </entry>
+      </file>
+      <file leaf-file-name="操作说明" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mocoTest/操作说明">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="39" selection-start-column="39" selection-end-column="39" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="startupGet.json" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mocoTest/startupGet.json">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="300">
+              <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
             </state>
           </provider>
         </entry>
@@ -94,31 +102,8 @@
       <file leaf-file-name="ExtentTestNGIReporterListener.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="60">
+            <state relative-caret-position="-553">
               <caret line="16" column="42" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="42" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="vcs.xml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="myTestng.iml" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTestng/myTestng.iml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file leaf-file-name="BasicDemo.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="225">
-              <caret line="15" selection-start-line="15" selection-end-line="15" />
-              <folding>
-                <element signature="e#130#131#0" expanded="true" />
-                <element signature="e#166#167#0" expanded="true" />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -143,13 +128,25 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java" />
         <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/TestMethodsDemo.java" />
         <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListenerOld.java" />
         <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListener.java" />
         <option value="$PROJECT_DIR$/myTestng/src/main/resources/testing.xml" />
-        <option value="$PROJECT_DIR$/myTestng/pom.xml" />
         <option value="$PROJECT_DIR$/myTestng/src/main/java/com/httpbclient/demo/MyHttpClient.java" />
+        <option value="$PROJECT_DIR$/myTestng/pom.xml" />
+        <option value="$PROJECT_DIR$/mocoTest/startup1.json" />
+        <option value="$PROJECT_DIR$/mocoTest/操作说明" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/LoginTest.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/PayTest.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/SuitConfig.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/IgnoreTest.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/Groups/GroupsOnMethod.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/testng/groups/GroupsOnMethod.java" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/resources/suit.xml" />
+        <option value="$PROJECT_DIR$/mocoTest/startupGet.json" />
+        <option value="$PROJECT_DIR$/mocoTest/startupPost.json" />
+        <option value="$PROJECT_DIR$/myTestng/src/main/java/com/javabase/test.java" />
       </list>
     </option>
   </component>
@@ -195,8 +192,8 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="70" />
-    <option name="y" value="23" />
+    <option name="x" value="-9" />
+    <option name="y" value="25" />
     <option name="width" value="1440" />
     <option name="height" value="777" />
   </component>
@@ -208,13 +205,17 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="mocoTest" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
@@ -250,6 +251,16 @@
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="myTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="javabase" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
@@ -266,14 +277,33 @@
               <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
               <item name="myTestng" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="myTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="test" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="AutoTest" type="462c0819:PsiDirectoryNode" />
+              <item name="myTestng" type="462c0819:PsiDirectoryNode" />
+              <item name="test-output" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="AutoTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
       <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -291,6 +321,9 @@
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.testng" />
     </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/mocoTest" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -304,7 +337,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="TestNG.MyHttpClient">
+  <component name="RunManager" selected="TestNG./Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml">
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
     </configuration>
@@ -324,19 +357,19 @@
       </option>
       <patterns />
     </configuration>
-    <configuration name="BasicDemo" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupsOnMethod (1)" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="myTestng" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.testng.*" />
+          <option name="PATTERN" value="com.testng.groups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.testng" />
-      <option name="MAIN_CLASS_NAME" value="com.testng.BasicDemo" />
+      <option name="PACKAGE_NAME" value="com.testng.groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupsOnMethod" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -353,19 +386,19 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="MyHttpClient" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupsOnMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="myTestng" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.httpbclient.demo.*" />
+          <option name="PATTERN" value="com.testng.groups.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="SUITE_NAME" />
-      <option name="PACKAGE_NAME" value="com.httpbclient.demo" />
-      <option name="MAIN_CLASS_NAME" value="com.httpbclient.demo.MyHttpClient" />
+      <option name="PACKAGE_NAME" value="com.testng.Groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupsOnMethod" />
       <option name="METHOD_NAME" />
       <option name="GROUP_NAME" />
       <option name="TEST_OBJECT" value="CLASS" />
@@ -382,11 +415,98 @@
       <properties />
       <listeners />
     </configuration>
-    <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+    <configuration name="GroupsOnMethod" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="myTestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.testng.Groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupsOnMethod" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GroupsOnMethod.test1" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="myTestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.testng.Groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupsOnMethod" />
+      <option name="METHOD_NAME" value="test1" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="GroupsOnMethod.test4" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="myTestng" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.testng.groups.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" value="com.testng.Groups" />
+      <option name="MAIN_CLASS_NAME" value="com.testng.groups.GroupsOnMethod" />
+      <option name="METHOD_NAME" value="test4" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" type="TestNG" factoryName="TestNG" temporary="true" nameIsGenerated="true">
       <module name="myTestng" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="SUITE_NAME" value="$PROJECT_DIR$/myTestng/src/main/resources/testing.xml" />
+      <option name="SUITE_NAME" value="$PROJECT_DIR$/myTestng/src/main/resources/suit.xml" />
       <option name="PACKAGE_NAME" />
       <option name="MAIN_CLASS_NAME" />
       <option name="METHOD_NAME" />
@@ -428,15 +548,19 @@
       <listeners />
     </configuration>
     <list>
-      <item itemvalue="TestNG.BasicDemo" />
-      <item itemvalue="TestNG./Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" />
-      <item itemvalue="TestNG.MyHttpClient" />
+      <item itemvalue="TestNG.GroupsOnMethod" />
+      <item itemvalue="TestNG.GroupsOnMethod (1)" />
+      <item itemvalue="TestNG.GroupsOnMethod.test1" />
+      <item itemvalue="TestNG.GroupsOnMethod.test4" />
+      <item itemvalue="TestNG./Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.MyHttpClient" />
-        <item itemvalue="TestNG./Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" />
-        <item itemvalue="TestNG.BasicDemo" />
+        <item itemvalue="TestNG./Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" />
+        <item itemvalue="TestNG.GroupsOnMethod.test4" />
+        <item itemvalue="TestNG.GroupsOnMethod.test1" />
+        <item itemvalue="TestNG.GroupsOnMethod (1)" />
+        <item itemvalue="TestNG.GroupsOnMethod" />
       </list>
     </recent_temporary>
   </component>
@@ -450,44 +574,45 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1587287829703</updated>
-      <workItem from="1587287835377" duration="9198000" />
+      <workItem from="1587287835377" duration="12776000" />
+      <workItem from="1587378507853" duration="17484000" />
     </task>
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="BasicDemo - 2020.04.19 at 17h 43m 43s.xml">
-      <configuration name="BasicDemo" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 03m 42s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 26m 51s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 04m 15s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 28m 15s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 05m 21s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 30m 20s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 05m 37s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 31m 03s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 06m 54s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 41m 28s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 07m 17s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 18h 58m 50s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 09m 23s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 19h 55m 11s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="GroupsOnMethod - 2020.05.05 at 18h 10m 24s.xml">
+      <configuration name="GroupsOnMethod" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_testing_xml - 2020.04.19 at 20h 00m 14s.xml">
-      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/testing.xml" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 10m 31s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
-    <history-entry file="MyHttpClient - 2020.04.19 at 20h 36m 06s.xml">
-      <configuration name="MyHttpClient" configurationId="TestNG" />
+    <history-entry file="_Users_liangchen_IdeaProjects_AutoTest_myTestng_src_main_resources_suit_xml - 2020.05.05 at 18h 10m 54s.xml">
+      <configuration name="/Users/liangchen/IdeaProjects/AutoTest/myTestng/src/main/resources/suit.xml" configurationId="TestNG" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="9198000" />
+    <option name="totallyTimeSpent" value="30260000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -499,36 +624,36 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="70" y="23" width="1440" height="777" extended-state="0" />
+    <frame x="76" y="191" width="1440" height="777" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32941177" />
-      <window_info anchor="bottom" id="Messages" weight="0.32941177" />
-      <window_info anchor="right" id="Palette&#9;" />
-      <window_info id="Image Layers" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="right" id="Maven Projects" weight="0.3297568" />
-      <window_info anchor="bottom" id="Database Changes" weight="0.32941177" />
+      <window_info anchor="bottom" id="Messages" order="7" weight="0.32941177" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" weight="0.3297568" />
+      <window_info anchor="bottom" id="Database Changes" order="7" weight="0.32941177" />
+      <window_info anchor="bottom" id="Version Control" order="7" weight="0.32941177" />
       <window_info anchor="bottom" id="Run" order="2" weight="0.32941177" />
-      <window_info anchor="bottom" id="Version Control" weight="0.32941177" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32941177" />
-      <window_info id="Capture Tool" />
-      <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24964234" />
-      <window_info anchor="right" id="Database" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.32941177" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2532189" />
+      <window_info anchor="right" id="Database" order="3" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="right" id="SciView" />
+      <window_info anchor="right" id="SciView" order="3" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
-      <window_info id="UI Designer" />
-      <window_info anchor="right" id="Theme Preview" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info id="Favorites" side_tool="true" />
-      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
     </layout>
@@ -539,43 +664,53 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTestng/myTestng.iml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java">
+    <entry file="file://$PROJECT_DIR$/myTestng/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        <state relative-caret-position="780">
+          <caret line="52" column="56" lean-forward="true" selection-start-line="52" selection-start-column="56" selection-end-line="52" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/httpbclient/demo/MyHttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="16" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/client/HttpClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/TestMethodsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="28" column="24" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="24" />
           <folding>
-            <element signature="e#130#131#0" expanded="true" />
-            <element signature="e#166#167#0" expanded="true" />
+            <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListenerOld.java">
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/resources/testing.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="104" column="60" lean-forward="true" selection-start-line="104" selection-start-column="60" selection-end-line="104" selection-end-column="60" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#6032#6045#0" expanded="true" />
-            <element signature="e#6046#6277#0" expanded="true" />
-            <element signature="e#6276#6277#0" expanded="true" />
-          </folding>
+        <state relative-caret-position="345">
+          <caret line="23" selection-start-line="23" selection-end-line="23" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myTestng/test-output/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1240">
+        <state relative-caret-position="75">
           <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
@@ -587,50 +722,261 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/TestMethodsDemo.java">
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/myTestng.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="28" column="24" selection-start-line="28" selection-start-column="16" selection-end-line="28" selection-end-column="24" />
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#201#202#0" expanded="true" />
-            <element signature="e#242#243#0" expanded="true" />
-            <element signature="e#284#285#0" expanded="true" />
-            <element signature="e#325#326#0" expanded="true" />
-            <element signature="e#387#388#0" expanded="true" />
-            <element signature="e#408#409#0" expanded="true" />
+            <element signature="e#718#719#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/myTestng.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/vcs.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListenerOld.java" />
+    <entry file="file://$PROJECT_DIR$/myTestng/test-output/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="6" selection-start-line="5" selection-start-column="6" selection-end-line="5" selection-end-column="6" />
         </state>
       </provider>
     </entry>
     <entry file="jar://$MAVEN_REPOSITORY$/org/apache/httpcomponents/httpclient/4.5.5/httpclient-4.5.5-sources.jar!/org/apache/http/client/HttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
+        <state relative-caret-position="840">
           <caret line="89" column="17" selection-start-line="89" selection-start-column="17" selection-end-line="89" selection-end-column="17" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/httpbclient/demo/MyHttpClient.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="32">
+          <caret line="3" column="41" lean-forward="true" selection-start-line="3" selection-start-column="41" selection-end-line="3" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/Reporter.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="76" column="23" selection-start-line="76" selection-start-column="23" selection-end-line="76" selection-end-column="23" />
+          <folding>
+            <element signature="e#2233#2234#0" expanded="true" />
+            <element signature="e#2279#2280#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/LoginTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
           <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+          <folding>
+            <element signature="e#175#176#0" expanded="true" />
+            <element signature="e#211#212#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/PayTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="35" selection-start-line="12" selection-start-column="35" selection-end-line="12" selection-end-column="35" />
+          <folding>
+            <element signature="e#172#173#0" expanded="true" />
+            <element signature="e#208#209#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/suit/SuitConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="259">
+          <caret line="22" column="38" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+          <folding>
+            <element signature="e#128#129#0" expanded="true" />
+            <element signature="e#164#165#0" expanded="true" />
+            <element signature="e#212#213#0" expanded="true" />
+            <element signature="e#248#249#0" expanded="true" />
+            <element signature="e#437#438#0" expanded="true" />
+            <element signature="e#490#491#0" expanded="true" />
+            <element signature="e#579#580#0" expanded="true" />
+            <element signature="e#631#632#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/internal/MethodInvocationHelper.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="127">
+          <caret line="112" selection-start-line="112" selection-end-line="112" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/internal/MethodRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="99" selection-start-line="99" selection-end-line="99" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/internal/TestInvoker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/internal/TestMethodWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="102" selection-start-line="102" selection-end-line="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/TestRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="111">
+          <caret line="369" column="23" selection-start-line="369" selection-start-column="23" selection-end-line="369" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/SuiteRunner.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="21">
+          <caret line="230" column="23" selection-start-line="230" selection-start-column="23" selection-end-line="230" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/testng/testng/7.1.1/testng-7.1.1.jar!/org/testng/SuiteRunnerWorker.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="157">
+          <caret line="40" column="67" selection-start-line="40" selection-start-column="67" selection-end-line="40" selection-end-column="67" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/groups/GroupsOnMethod.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="52" column="1" lean-forward="true" selection-start-line="52" selection-start-column="1" selection-end-line="52" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#526#527#0" expanded="true" />
+            <element signature="e#580#581#0" expanded="true" />
+            <element signature="e#621#622#0" expanded="true" />
+            <element signature="e#657#658#0" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1029#1030#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/resources/suit.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="148">
+          <caret line="10" column="17" lean-forward="true" selection-start-line="10" selection-start-column="17" selection-end-line="10" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/IgnoreTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/BasicDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="390">
+          <caret line="36" column="29" lean-forward="true" selection-start-line="36" selection-start-column="29" selection-end-line="36" selection-end-column="29" />
+          <folding>
+            <element signature="e#718#719#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/TestMethodsDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="319">
+          <caret line="35" lean-forward="true" selection-start-line="35" selection-end-line="35" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/myTestng/src/main/resources/testing.xml">
+    <entry file="file://$PROJECT_DIR$/mocoTest/startup1.json">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="23" lean-forward="true" selection-start-line="23" selection-end-line="23" />
+        <state relative-caret-position="180">
+          <caret line="12" column="1" lean-forward="true" selection-start-line="12" selection-start-column="1" selection-end-line="12" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoTest/操作说明">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="39" selection-start-column="39" selection-end-column="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoTest/startupGet.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="6" lean-forward="true" selection-start-line="20" selection-start-column="6" selection-end-line="20" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mocoTest/startupPost.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="22" lean-forward="true" selection-start-line="22" selection-start-column="22" selection-end-line="22" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/test-output/emailable-report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/test-output/report.html">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/testng/ExtentTestNGIReporterListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-553">
+          <caret line="16" column="42" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="42" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/myTestng/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="45" column="46" lean-forward="true" selection-start-line="45" selection-start-column="46" selection-end-line="45" selection-end-column="46" />
+        <state relative-caret-position="132">
+          <caret line="44" column="20" lean-forward="true" selection-start-line="44" selection-start-column="20" selection-end-line="44" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/resources/testing.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="20" column="73" lean-forward="true" selection-start-line="20" selection-start-column="73" selection-end-line="20" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/myTestng/src/main/java/com/javabase/test.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="23" selection-start-line="8" selection-start-column="23" selection-end-line="8" selection-end-column="23" />
         </state>
       </provider>
     </entry>
