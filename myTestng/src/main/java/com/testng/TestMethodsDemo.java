@@ -27,7 +27,8 @@ public class TestMethodsDemo {
 
     @Test
     public void logoDemo(){
-        Reporter.log("这个是我们自己写的日志");
+        String a = "kkkkkk";
+        Reporter.log("这个是我们自己写的日志" + a);
         throw new RuntimeException("这是我自己的运行时异常");
     }
 

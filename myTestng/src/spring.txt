@@ -1,0 +1,2 @@
+class=com.javabase.reflectdemo.service.Service2
+method=doService2

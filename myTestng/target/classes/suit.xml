@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?><!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd" >
+<suite name="test">
+
+    <test name="login">
+
+        <groups>
+            <run>
+                <include name="server" />
+                <include name="client" />
+            </run>
+        </groups>
+        
+        <classes>
+            <class name="com.testng.groups.GroupsOnMethod" />
+            <!--<class name="com.testng.suit.SuitConfig"/>-->
+            <!--<class name="com.testng.suit.LoginTest"/>-->
+        </classes>
+
+    </test>
+
+    <!--<test name="pay">-->
+        <!--<classes>-->
+            <!--<class name="com.testng.suit.SuitConfig"/>-->
+            <!--<class name="com.testng.suit.PayTest"/>-->
+        <!--</classes>-->
+
+    <!--</test>-->
+
+</suite>
